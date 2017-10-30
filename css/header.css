@@ -381,3 +381,6 @@ label#table-recently{
 	background-color: white;
 	color: black;
 }
+a#logo:hover{
+	background-color: #0c3953
+}
